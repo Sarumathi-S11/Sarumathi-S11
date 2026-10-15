@@ -4,7 +4,7 @@
 
 💡 Turning raw data into meaningful insights through analytics, visualization, and problem-solving.
 
-""Typing SVG" (https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Excel;Power+BI+%7C+Tableau;Web+Development+Enthusiast)" (https://git.io/typing-svg)
+""Typing SVG" (https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=650&lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Excel;Power+BI+%7C+Tableau;Web+Development+Enthusiast)" (https://git.io/typing-svg)
 
 ---
 
